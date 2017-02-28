@@ -34,3 +34,22 @@ section[epub|type~="dedication"] p{
 	text-indent: 0;
 	font-variant: small-caps;
 }
+
+abbr.name{
+	white-space: nowrap;
+}
+
+[epub|type~="z3998:song"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:song"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:song"] br{
+	display: none;
+}
