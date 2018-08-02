@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-b{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
@@ -33,10 +28,6 @@ section[epub|type~="dedication"] p{
 	margin: 10% auto;
 	text-indent: 0;
 	font-variant: small-caps;
-}
-
-abbr.name{
-	white-space: nowrap;
 }
 
 [epub|type~="z3998:song"] p{
