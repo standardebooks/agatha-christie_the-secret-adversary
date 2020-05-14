@@ -54,7 +54,7 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionares, and diplomats.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Secret Adversary&lt;/i&gt;, Agatha Christie’s second novel, introduces Tommy and Tuppence, the two much-loved mystery-solving adventurers.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Secret Adversary&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; second novel, introduces Tommy and Tuppence, the two much-loved mystery-solving adventurers.&lt;/p&gt;
 			&lt;p&gt;The novel centers around a mysterious young girl, suffering from amnesia, who was present on the sinking of the &lt;i&gt;Lusitania&lt;/i&gt;. As Tommy and Tuppence try to unravel the mystery, they find themselves embroiled with mysterious millionares and the dangerous politics of nation-states.&lt;/p&gt;
 			&lt;p&gt;Contemporary reviews of &lt;i&gt;The Secret Adversary&lt;/i&gt; were positive, and the success of the novel paved the way not just for future Tommy and Tuppence adventures, but for a long, storied career of literary success for Christie.&lt;/p&gt;
 		</meta>
