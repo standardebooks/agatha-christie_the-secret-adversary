@@ -11,8 +11,8 @@ p[epub|type~="z3998:salutation"] + p{
 }
 
 [epub|type~="z3998:letter"] footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 section[epub|type~="dedication"] p{
