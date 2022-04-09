@@ -51,6 +51,9 @@
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Tommy &amp; Tuppence</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Secret Adversary&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; second novel, introduces Tommy and Tuppence, the two much-loved mystery-solving adventurers.&lt;/p&gt;
