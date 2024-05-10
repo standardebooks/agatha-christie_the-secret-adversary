@@ -64,7 +64,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1155</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100958219</dc:source>
 		<meta property="se:word-count">77914</meta>
-		<meta property="se:reading-ease.flesch">78.04</meta>
+		<meta property="se:reading-ease.flesch">78.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Secret_Adversary</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/agatha-christie_the-secret-adversary</meta>
 		<dc:creator id="author">Agatha Christie</dc:creator>
