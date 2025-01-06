@@ -62,3 +62,7 @@ section[epub|type~="dedication"] > *{
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
