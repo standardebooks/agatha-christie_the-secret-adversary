@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/agatha-christie/the-secret-adversary</dc:identifier>
 		<dc:date>2017-03-15T22:23:06Z</dc:date>
@@ -56,12 +56,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Tommy and Tuppence</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Tommy and Tuppence try to solve a mystery, only to find themselves embroiled in schemes of murder, millionaires, and diplomats.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Secret Adversary&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie’s&lt;/a&gt; second novel, introduces Tommy and Tuppence, the two much-loved mystery-solving adventurers.&lt;/p&gt;
 			&lt;p&gt;The novel centers around a mysterious young girl, suffering from amnesia, who was present on the sinking of the &lt;i&gt;Lusitania&lt;/i&gt;. As Tommy and Tuppence try to unravel the mystery, they find themselves embroiled with mysterious millionaires and the dangerous politics of nation-states.&lt;/p&gt;
 			&lt;p&gt;Contemporary reviews of &lt;i&gt;The Secret Adversary&lt;/i&gt; were positive, and the success of the novel paved the way not just for future Tommy and Tuppence adventures, but for a long, storied career of literary success for Christie.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1155</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100958219</dc:source>
